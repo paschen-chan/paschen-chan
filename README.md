@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm paschen-chan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Passionate+Developer;Code+is cheap,+show+me+your+thought.;Driven+by+Curiosity+%26+Aesthetics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Passionate%20Developer;Code%20is%20cheap%2C%20show%20me%20your%20thought.;Driven%20by%20Curiosity%20%26%20Aesthetics" alt="Typing SVG" />
 </p>
 
 
